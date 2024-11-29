@@ -25,6 +25,12 @@ Trained a VGG-19 from scratch on ImageNet (1.5 million images) - 2 ArXiv Papers\
 Currently working and training on 2 NVIDIA RTX A5000s, getting some A/L40s and trying to set up a network-based distributed system for training really deep models 😁\
 Interned for a US MIT Startup and BDL (Ministry of Defence, India)
 
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=yug-oswal&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yug-oswal&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 <!--
 **Yug-Oswal/Yug-Oswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
