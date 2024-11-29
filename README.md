@@ -1,17 +1,13 @@
-## Yug Oswal 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-**`AI/ML Enthusiast | Third Year Student at VIT Vellore`**
+<p>Welcome to my page! </br> I'm Yug, an AI/ML developer/researcher/student from India. (And a self-proclaimed writer :))</p>
 
-### 👊 Connect With Me
-   <div align="left">
-  <a href="mailto:yoswal071@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="[https://www.linkedin.com/in/pratham-mishra/](https://www.linkedin.com/in/yug-d-oswal-082652259/)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-Google Scholar: https://scholar.google.com/citations?user=e8SUSSEAAAAJ
+<h3>Things I work with</h3>
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,py,docker,js,nodejs,flutter,mongodb,c,cpp,html,css)](https://skillicons.dev)
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/yug-oswal" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Yug_Oswal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yug-d-oswal-082652259" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ### 🗞 Current Research Areas: 
 Novel Loss Functions\
