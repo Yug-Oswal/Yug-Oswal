@@ -3,7 +3,6 @@
 <p>Welcome to my page! </br> I'm Yug, an AI/ML developer/researcher/student from India. (And a self-proclaimed writer :))</p>
 
 <h3>Things I work with</h3>
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,py,docker,js,nodejs,flutter,mongodb,c,cpp,html,css)](https://skillicons.dev)
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/yug-oswal" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Yug_Oswal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yug-d-oswal-082652259" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
