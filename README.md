@@ -29,8 +29,7 @@ const yug = {
     ai/ml: {
         research: {
             currentAreas: ["Novel Activations", "Loss Functions", "Neural Network Layers"],
-            publishedPapers: 2,
-            
+            publishedPapers: 2
         }
     }
     currentFocus: "Growing, building, and growing again",
@@ -41,21 +40,21 @@ const yug = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
-### 🗞 Current Research Areas: 
-Novel Loss Functions\
-Novel Activation Functions\
-Novel Neural Network Layers (Implementing my own RNN/GRU/LSTM cells currently, with custom cell state passing 😎)
+//### 🗞 Current Research Areas: 
+//Novel Loss Functions\
+//Novel Activation Functions\
+//Novel Neural Network Layers (Implementing my own RNN/GRU/LSTM cells currently, with custom cell state passing 😎)
 
-### 🖥 Proficient In:
-Data Science (EDA & Data Visualization, Processing, and everything else) - Numpy, Pandas, Statsmodels, Matplotlib.\
-Machine Learning: Tensorflow, Python, Pytorch, scikit-learn, nltk, huggingface (transformers), Jupyter Lab, and more.\
-Web Dev & Deployment: JavaScript - Node.js (Express), Flask, FastAPI, Docker, and more TBA.\
-Others: Python, C, C++, HTML, CSS.
+//### 🖥 Proficient In:
+//Data Science (EDA & Data Visualization, Processing, and everything else) - Numpy, Pandas, Statsmodels, Matplotlib.\
+//Machine Learning: Tensorflow, Python, Pytorch, scikit-learn, nltk, huggingface (transformers), Jupyter Lab, and more.\
+//Web Dev & Deployment: JavaScript - Node.js (Express), Flask, FastAPI, Docker, and more TBA.\
+//Others: Python, C, C++, HTML, CSS.
 
 ### Interesting Things:
-Trained a VGG-19 from scratch on ImageNet (1.5 million images) - 2 ArXiv Papers\
-Currently working and training on 2 NVIDIA RTX A5000s, getting some A/L40s and trying to set up a network-based distributed system for training really deep models 😁\
-Interned for a US MIT Startup and BDL (Ministry of Defence, India)
+ - Trained a VGG-19 from scratch on ImageNet (1.5 million images) - 2 ArXiv Papers\
+ - Currently working and training on 2 NVIDIA RTX A5000s, getting some A/L40s and trying to set up a network-based distributed system for training really deep models 😁\
+ - Interned for a US MIT Startup and BDL (Ministry of Defence, India)
 
 <details>
   <summary>Github Stats ⚡</summary>
