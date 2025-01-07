@@ -15,7 +15,7 @@
 const yug = {
     pronouns: "He" | "Him",
     code: ["Tensorflow", "Numpy | Pandas | etc", "Javascript", "Python"],
-    askMeAbout: ["AI/ML (oh yeah xD)", "Research", "Data Science", "Web Backend", "App Dev"],
+    askMeAbout: ["AI/ML - best :)", "Research", "Data Science", "Web Backend", "App Dev"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
@@ -24,15 +24,15 @@ const yug = {
         mobileApp: {
             crossPlatform: ["Flutter"],
         },
-        devOps: ["Docker🐳", "CI/CD", "Remote GPU Workloads for ML"],
+        devOps: ["Docker🐳", "CI/CD", "GPU Workloads for ML"],
         databases: ["PostgreSQL", "MongoDB", "Oracle SQL", "redis"],
     },
-    ai/ml: {
+    ai/Ml: {
         research: {
-            currentAreas: ["Novel Activations", "Loss Functions", "Neural Network Layers"],
+            currentAreas: ["Novel Activations", "Loss Functions", "Neural Network Layers", "Theory of Deep Learning"],
             publishedPapers: 2
         },
-        everythinglol: {
+        aboutMe: {
             projects: ["Rekindle (refurbishing)", "Duality of Weights", "Custom RNNs", "A few private repos (public soon)"],
             interesting: ["Trained a VGG-19 from scratch on ImageNet (1.5 million images) - 2 ArXiv Papers",
                           "Currently working and training on 2 NVIDIA RTX A5000s,
